@@ -1,5 +1,6 @@
 # proyecto-chava
-Al rescate de perritos y gatitos
+No compres, adopta
+
 ## Motivacion o problematica
 
 El abandono de las mascotas en la zona metropolitana, informar sobre la problematica de regalar mascotas a los niños y su posterior abandono, ofrecer información sobre campañas de esterilización y como objetivo secundario, ofrecer la opción de vocear sobre mascotas extraviadas
